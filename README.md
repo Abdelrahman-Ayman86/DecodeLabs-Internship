@@ -4,7 +4,7 @@ High-precision data processing and visualization framework for distributed syste
 
 # Installation
 ```bash
-git clone [https://github.com/atlas/core.git](https://github.com/atlas/core.git)
+git clone https://github.com/atlas/core.git
 cd core
 npm install
 ```
